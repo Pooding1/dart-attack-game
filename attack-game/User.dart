@@ -1,5 +1,9 @@
 import 'dart:math';
 
+class box{
+  
+}
+
 int getNum(int min, int max){
   //랜덤 변수선언을 해서 dmg가 확률적으로 min과 max가 나오게함
   Random random = new Random();
